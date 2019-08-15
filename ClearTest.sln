@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "SmsCode\TestApp.csproj", "{0E9E6F89-9823-463B-B09C-F4CB4DFDE3A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearTest", "SmsCode\ClearTest.csproj", "{0E9E6F89-9823-463B-B09C-F4CB4DFDE3A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
